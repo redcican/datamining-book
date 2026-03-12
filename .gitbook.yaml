@@ -1,0 +1,6 @@
+# GitBook.com Git Sync configuration
+# When this repo is connected to GitBook.com, it will use these settings.
+root: ./
+structure:
+    readme: content/preface.md
+    summary: SUMMARY.md

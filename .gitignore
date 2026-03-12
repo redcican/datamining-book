@@ -1,0 +1,9 @@
+.next/
+node_modules/
+out/
+.env.local
+*.pyc
+__pycache__/
+code/**/output/
+.DS_Store
+public/exports/
