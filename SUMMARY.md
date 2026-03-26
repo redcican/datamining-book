@@ -124,11 +124,10 @@
 - [第十二章 数据挖掘系统与工具](content/ch12/index.md)
   - [12.1 数据挖掘平台概述](content/ch12/12.1.md)
   - [12.2 Python 数据挖掘生态系统](content/ch12/12.2.md)
-  - [12.3 R 语言数据挖掘工具包](content/ch12/12.3.md)
-  - [12.4 大数据挖掘平台（Hadoop, Spark）](content/ch12/12.4.md)
-  - [12.5 可视化数据挖掘工具](content/ch12/12.5.md)
-  - [12.6 云端数据挖掘服务](content/ch12/12.6.md)
-  - [12.7 开源数据挖掘工具比较](content/ch12/12.7.md)
+  - [12.3 大数据挖掘平台（Hadoop, Spark）](content/ch12/12.3.md)
+  - [12.4 可视化数据挖掘工具](content/ch12/12.4.md)
+  - [12.5 云端数据挖掘服务](content/ch12/12.5.md)
+  - [12.6 开源数据挖掘工具比较](content/ch12/12.6.md)
 
 ## 第十三章 数据挖掘实践案例
 
