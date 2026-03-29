@@ -120,13 +120,6 @@ status: complete
 
 本书所有代码和数据集均托管在 GitHub 仓库中。代码目录按章节组织（`code/chXX/`），每个案例的数据加载脚本（`_load_*.py`）封装了下载、缓存和预处理逻辑，首次运行需要网络连接。建议使用 Python 3.10+ 和 Anaconda 环境。
 
-### 排版约定
-
-- **定义**：全书采用统一编号的形式化定义（如"定义 3.7 基尼不纯度"），方便交叉引用
-- **公式**：行内公式使用 $$...$$ 格式（GitBook 规范）
-- **提示框**：{% hint style="tip" %} 为实践建议，{% hint style="warning" %} 为常见陷阱
-- **交叉引用**：§X.Y 格式引用其他章节（如"参见 §3.6 集成学习"）
-
 ## 致谢
 
 本书的写作是一段漫长的旅程。感谢所有为开源数据科学生态做出贡献的开发者——scikit-learn、PyTorch、pandas、NumPy、NetworkX 等项目使得本书中的每一个实验都能被读者轻松复现。感谢 UCI Machine Learning Repository、Kaggle 和 GroupLens 等平台提供的公开数据集，它们是数据挖掘教育的基石。
